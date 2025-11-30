@@ -3,22 +3,23 @@
 
 int main(){
 
-int operand1 = 5;
-printf("%d", operand1);
-int operand2 = 10;
-printf("%d", operand2);
-int operand3 = 15;
-printf("%d", operand3);
+int x = 12;
 
-int result;
-printf("%d", result);
-result;
-printf("%d", result);
-result;
-printf("%d", result);
-result;
-printf("%d", result);
+int y = 7;
 
-int operators;
-printf("%d", operators);
+int d;
+
+x = y;
+
+x = 12;
+
+printf("input a number:");
+
+y = 7;
+
+printf("input a number:");
+
+int operator = + 
+
+printf("input a operator:");
 }
